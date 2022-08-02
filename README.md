@@ -1,0 +1,1 @@
+# umi-max-vite-plugins-import-vite-bug
